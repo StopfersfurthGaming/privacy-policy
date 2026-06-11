@@ -1,0 +1,171 @@
+Privacy Policy
+Effective date: 01 December 2026
+App name: CryptoBitcoinTD
+Developer: Stopfersfurth Gaming
+Contact: stopfersfurthgaming@gmail.com
+www: stopfersfurthgaming.com
+
+This Privacy Policy explains how we collect, use, disclose, and protect information when you use our mobile game CryptoBitcoinTD (“the Game”, “we”, “us”, or “our”).
+By installing or using the Game, you agree to the practices described in this Privacy Policy. If you do not agree, please do not use the Game.
+1. Information We Collect
+We may collect or receive the following types of information:
+
+1.1 Information collected automatically
+When you use the Game, certain technical information may be collected automatically, including:
+•	device type and model; 
+•	operating system version; 
+•	app version; 
+•	language settings; 
+•	country or region; 
+•	approximate device identifiers, such as advertising ID or app instance ID; 
+•	gameplay events, progress, session duration, crashes, diagnostics, and performance data. 
+This information is used to operate, improve, secure, and optimize the Game.
+
+1.2 Advertising data
+If the Game displays ads, advertising partners may collect or process information such as:
+•	advertising ID; 
+•	IP address; 
+•	approximate location; 
+•	device information; 
+•	ad impressions, clicks, and interactions; 
+•	consent status, where applicable. 
+This data may be used to display ads, limit ad frequency, measure ad performance, prevent fraud, and, where permitted, personalize ads.
+
+1.3 Analytics and crash data
+We may use analytics and crash reporting tools to understand how players use the Game and to identify technical problems. These tools may collect gameplay events, crash logs, diagnostics, device information, app version, session data, and similar technical data.
+
+1.4 In-app purchase data
+The Game may offer in-app purchases. Purchases are processed by the relevant app store, such as Google Play. We do not receive or store your full payment details, such as credit card numbers.
+We may receive limited purchase-related information, such as:
+•	product purchased; 
+•	purchase status; 
+•	transaction confirmation; 
+•	purchase time; 
+•	platform account-related purchase validation data. 
+This information is used to provide purchased items, prevent fraud, restore purchases, and comply with legal obligations.
+
+1.5 Information you provide voluntarily
+If you contact us for support, we may collect the information you provide, such as:
+•	your email address; 
+•	your name, if provided; 
+•	your message; 
+•	device or gameplay information included in your request. 
+We use this information only to respond to your request and provide support.
+
+2. How We Use Information
+We use information for the following purposes:
+•	to operate and provide the Game; 
+•	to save or restore game progress, where applicable; 
+•	to process and validate in-app purchases; 
+•	to show ads and measure ad performance; 
+•	to analyze gameplay, usage, performance, and crashes; 
+•	to improve balancing, features, content, and user experience; 
+•	to detect, prevent, and address fraud, cheating, abuse, or technical issues; 
+•	to comply with legal obligations; 
+•	to respond to user support requests. 
+
+3. Legal Basis for Processing
+If you are located in the European Economic Area, the United Kingdom, or another region with similar data protection laws, we process personal data based on one or more of the following legal bases:
+•	Consent: for example, where required for personalized advertising, analytics, or access to certain device identifiers. 
+•	Contract performance: to provide the Game, in-app purchases, and related services. 
+•	Legitimate interests: to maintain, secure, analyze, and improve the Game, prevent fraud, and fix technical issues. 
+•	Legal obligations: where processing is required to comply with applicable laws. 
+You may withdraw your consent at any time where processing is based on consent.
+
+4. Third-Party Services
+The Game may use third-party services that process data according to their own privacy policies. These services may include:
+•	Google Play Services 
+•	Google Play Billing 
+•	Google AdMob 
+•	Google Firebase 
+•	Firebase Analytics 
+•	Firebase Crashlytics 
+•	Unity Ads / AppLovin / ironSource / Meta Audience Network [delete if not used] 
+These providers may collect device information, advertising identifiers, usage data, crash data, diagnostics, purchase-related information, and other data necessary to provide their services.
+Please review the privacy policies of the relevant third-party providers for more information about their data practices.
+
+5. Advertising and Consent
+The Game may display ads. Depending on your location and consent choices, ads may be personalized or non-personalized.
+Personalized ads may be based on information such as your advertising ID, app activity, approximate location, and interactions with ads. Non-personalized ads may still use limited information, such as device type, general location, and contextual information, to deliver and measure ads.
+Where required by law, we will ask for your consent before using personal data for personalized advertising or similar purposes.
+You can also limit or reset your advertising ID through your device settings.
+
+6. In-App Purchases
+The Game may include optional in-app purchases. Payment transactions are handled by the app store provider, such as Google Play. We do not process or store your full payment information.
+Purchase-related data may be used to:
+•	unlock purchased content; 
+•	verify successful transactions; 
+•	restore purchases; 
+•	prevent fraud or abuse; 
+•	provide customer support. 
+Refunds and payment disputes are handled according to the policies of the relevant app store.
+
+7. Children’s Privacy
+The Game is not intended for children under the age of [13 / 16 / insert applicable age] unless permitted by applicable law and configured accordingly.
+We do not knowingly collect personal data from children without appropriate consent where required by law. If you believe that a child has provided us with personal data, please contact us at stopfersfurthgaming@gmail.com, and we will take appropriate steps to delete such information.
+If the Game is directed to children or available to children, additional rules may apply, including restrictions on personalized advertising and data collection.
+
+8. Data Sharing
+We do not sell your personal data.
+We may share information with:
+•	service providers who help us operate, analyze, monetize, or improve the Game; 
+•	advertising partners, where ads are displayed; 
+•	analytics and crash reporting providers; 
+•	app store providers for purchase processing and validation; 
+•	authorities or other parties where required by law; 
+•	parties involved in a business transfer, such as a merger, acquisition, or asset sale. 
+All sharing is limited to the purposes described in this Privacy Policy.
+
+9. Data Retention
+We retain information only for as long as necessary for the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.
+Support emails may be retained for as long as necessary to handle your request and maintain appropriate records.
+Analytics, crash, advertising, and purchase-related data may be retained according to the retention policies of the relevant third-party services.
+
+10. Data Security
+We use reasonable technical and organizational measures to protect information against unauthorized access, loss, misuse, alteration, or disclosure.
+However, no method of transmission or electronic storage is completely secure. Therefore, we cannot guarantee absolute security.
+
+11. International Data Transfers
+Your information may be processed in countries other than your country of residence. These countries may have different data protection laws.
+Where required, we rely on appropriate safeguards for international data transfers, such as contractual protections or other legally recognized mechanisms.
+
+12. Your Rights
+Depending on your location, you may have certain rights regarding your personal data, including the right to:
+•	access your personal data; 
+•	request correction of inaccurate data; 
+•	request deletion of your data; 
+•	object to or restrict certain processing; 
+•	withdraw consent; 
+•	request data portability; 
+•	lodge a complaint with a data protection authority. 
+To exercise your rights, contact us at:
+stopfersfurthgaming@gmail.com
+We may need to verify your identity before responding to your request.
+
+13. Data Deletion
+We do not create user accounts and we do not directly store personal user data on our own servers.
+However, certain data may be processed by third-party services used in the Game, such as Google Play, Google AdMob, Firebase, analytics, crash reporting, or in-app purchase services.
+If you would like to request deletion of personal data related to your use of the Game, you can contact us at:
+stopfersfurthgaming@gmail.com
+Please include the name of the Game and, if possible, information that helps us identify your request. We will review your request and, where applicable, assist you or direct you to the relevant third-party provider.
+Some data may be retained where required for legal, security, fraud prevention, billing, or accounting purposes.
+
+14. Device Permissions
+The Game may request device permissions only where necessary for its features. Depending on the final version of the Game, this may include permissions such as:
+•	internet access; 
+•	network state; 
+•	notifications; [delete if not used] 
+•	storage access; [delete if not used] 
+You can manage app permissions through your device settings.
+
+15. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If we make changes, we will update the “Effective date” at the top of this Privacy Policy.
+We encourage you to review this Privacy Policy periodically.
+
+16. Contact Us
+If you have questions about this Privacy Policy or our data practices, contact us at:
+Developer: Stopfersfurth Gaming
+Email: stopfersfurthgaming@gmail.com
+www: stopfersfurthgaming.com
+Country: Germany
+
