@@ -6,7 +6,9 @@ Contact: stopfersfurthgaming@gmail.com
 www: stopfersfurthgaming.com
 
 This Privacy Policy explains how we collect, use, disclose, and protect information when you use our mobile game CryptoBitcoinTD (“the Game”, “we”, “us”, or “our”).
+We do not create user accounts and we do not directly store personal user data on our own servers. However, third-party services such as Google AdMob may collect and process certain data for advertising, analytics, and fraud prevention purposes.
 By installing or using the Game, you agree to the practices described in this Privacy Policy. If you do not agree, please do not use the Game.
+
 1. Information We Collect
 We may collect or receive the following types of information:
 
