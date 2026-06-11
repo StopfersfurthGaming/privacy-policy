@@ -1,6 +1,6 @@
 Privacy Policy
 Effective date: 01 December 2026
-App name: CryptoBitcoinTD
+App name: Crypto Bitcoin TD
 Developer: Stopfersfurth Gaming
 Contact: stopfersfurthgaming@gmail.com
 www: stopfersfurthgaming.com
