@@ -1,5 +1,5 @@
 Privacy Policy
-Effective date: 01 December 2026
+Effective date: 18 November 2026
 App name: Crypto Bitcoin TD
 Developer: Stopfersfurth Gaming
 Contact: stopfersfurthgaming@gmail.com
@@ -33,8 +33,9 @@ If the Game displays ads, advertising partners may collect or process informatio
 •	consent status, where applicable. 
 This data may be used to display ads, limit ad frequency, measure ad performance, prevent fraud, and, where permitted, personalize ads.
 
-1.3 Analytics and crash data
-We may use analytics and crash reporting tools to understand how players use the Game and to identify technical problems. These tools may collect gameplay events, crash logs, diagnostics, device information, app version, session data, and similar technical data.
+1.3 Gameplay Statistics and Diagnostics
+The Game stores its gameplay statistics locally.
+It does not currently integrate a separate Firebase Analytics or Firebase Crashlytics SDK. Google advertising services may process diagnostic and interaction information as described in this policy.
 
 1.4 In-app purchase data
 The Game may offer in-app purchases. Purchases are processed by the relevant app store, such as Google Play. We do not receive or store your full payment details, such as credit card numbers.
@@ -75,16 +76,20 @@ If you are located in the European Economic Area, the United Kingdom, or another
 You may withdraw your consent at any time where processing is based on consent.
 
 4. Third-Party Services
-The Game may use third-party services that process data according to their own privacy policies. These services may include:
-•	Google Play Services 
-•	Google Play Billing 
-•	Google AdMob 
-•	Google Firebase 
-•	Firebase Analytics 
-•	Firebase Crashlytics 
-•	Unity Ads / AppLovin / ironSource / Meta Audience Network [delete if not used] 
-These providers may collect device information, advertising identifiers, usage data, crash data, diagnostics, purchase-related information, and other data necessary to provide their services.
-Please review the privacy policies of the relevant third-party providers for more information about their data practices.
+The Game uses Google Play Billing for in-app purchases,
+Google AdMob for advertising, and Google's User Messaging
+Platform (UMP) to manage advertising consent.
+
+These services may process device identifiers, IP addresses,
+advertising interactions, diagnostic information, consent
+choices, and purchase-related information, depending on
+the service and applicable settings.
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
+Information about Google's advertising services:
+https://policies.google.com/technologies/ads
 
 5. Advertising and Consent
 The Game may display ads. Depending on your location and consent choices, ads may be personalized or non-personalized.
@@ -102,10 +107,21 @@ Purchase-related data may be used to:
 •	provide customer support. 
 Refunds and payment disputes are handled according to the policies of the relevant app store.
 
-7. Children’s Privacy
-The Game is not intended for children under the age of [13 / 16 / insert applicable age] unless permitted by applicable law and configured accordingly.
-We do not knowingly collect personal data from children without appropriate consent where required by law. If you believe that a child has provided us with personal data, please contact us at stopfersfurthgaming@gmail.com, and we will take appropriate steps to delete such information.
-If the Game is directed to children or available to children, additional rules may apply, including restrictions on personalized advertising and data collection.
+7. Children's Privacy and Age Selection
+Before enabling advertising, the Game requests an age-group
+selection. This selection is stored locally on the device
+and applies across save slots. The Game does not request
+an exact date of birth.
+
+For users who select an age below 13, the Game does not
+initialize its advertising SDK or request advertisements.
+
+For users who select ages 13–15, the Game applies
+under-age-of-consent settings to its advertising and
+consent services.
+
+For privacy-related questions concerning a child, please
+contact stopfersfurthgaming@gmail.com.
 
 8. Data Sharing
 We do not sell your personal data.
@@ -145,20 +161,40 @@ stopfersfurthgaming@gmail.com
 We may need to verify your identity before responding to your request.
 
 13. Data Deletion
-We do not create user accounts and we do not directly store personal user data on our own servers.
-However, certain data may be processed by third-party services used in the Game, such as Google Play, Google AdMob, Firebase, analytics, crash reporting, or in-app purchase services.
-If you would like to request deletion of personal data related to your use of the Game, you can contact us at:
+The Game does not create user accounts. Save files, settings,
+and gameplay statistics are stored locally on your device.
+Uninstalling the Game normally removes this local app data.
+Copies you have exported or backed up must be deleted separately.
+
+Google Play and Google AdMob may process purchase-related,
+advertising, and diagnostic information under their own
+privacy policies. Uninstalling the Game does not automatically
+delete information held by these providers or cancel or
+refund purchases.
+
+To request deletion of personal information you have provided
+to us, such as support emails, contact:
+
 stopfersfurthgaming@gmail.com
-Please include the name of the Game and, if possible, information that helps us identify your request. We will review your request and, where applicable, assist you or direct you to the relevant third-party provider.
-Some data may be retained where required for legal, security, fraud prevention, billing, or accounting purposes.
+
+Please mention Crypto Bitcoin TD and describe your request.
+We will review it and, where applicable, delete information
+we control or explain how to contact the relevant provider.
+Certain information may be retained where required by law
+or necessary for handling legal claims.
 
 14. Device Permissions
-The Game may request device permissions only where necessary for its features. Depending on the final version of the Game, this may include permissions such as:
-•	internet access; 
-•	network state; 
-•	notifications; [delete if not used] 
-•	storage access; [delete if not used] 
-You can manage app permissions through your device settings.
+The Game uses internet access and network-state information
+for advertising, consent management, and Google Play services,
+including in-app purchases.
+
+The Android advertising SDK declares advertising identifier
+and Ad Services permissions. Their use depends on SDK
+configuration, consent choices, and device settings.
+
+The current Android version does not request notification
+permission or general access to shared device storage.
+Save files and settings are stored in app-specific storage.
 
 15. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. If we make changes, we will update the “Effective date” at the top of this Privacy Policy.
